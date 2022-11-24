@@ -20,8 +20,8 @@ pipeline {
         }
         stage('Test Code 2') {
             steps {
-                sh "chmod u+x fTest.py"
-                sh "./fTest.py"
+                sh "chmod u+x ftest.py"
+                sh "./ftest.py"
             }
         }
     } 
