@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import unittest
 
 from prime_tester import prime_tester
